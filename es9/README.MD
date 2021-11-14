@@ -1,7 +1,6 @@
 
 # ES9 - 2018
 
-
 #### Major new features:
 
 -   [Asynchronous Iteration](http://2ality.com/2016/10/asynchronous-iteration.html)
