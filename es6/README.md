@@ -1,0 +1,82 @@
+# ES6 - 2015
+
+ - [Constants](http://es6-features.org/#Constants)
+ - [Scoping](http://es6-features.org/#BlockScopedVariables)
+	 - Block-Scoped Variables
+	 - Block-Scoped Functions
+ - [Arrow Functions](http://es6-features.org/#ExpressionBodies)
+	 - Expression Bodies
+	 - Statement Bodies
+	 - Lexical this
+ - [Extended Parameter Handling](http://es6-features.org/#DefaultParameterValues)
+	 - Default Parameter
+	 -  Values Rest Parameter
+	 - Spread Operator
+ - [Template Literals](http://es6-features.org/#StringInterpolation)
+	 - String Interpolation
+	 -  Custom Interpolation
+	 - Raw String Access
+ - [Extended Literals](http://es6-features.org/#BinaryOctalLiteral)
+	 -  Binary & Octal Literal
+	 - Unicode String & RegExp Literal
+ - [Enhanced Regular Expression](http://es6-features.org/#RegularExpressionStickyMatching)
+	 -  Regular Expression Sticky Matching
+ - [Enhanced Object Properties](http://es6-features.org/#PropertyShorthand)
+	 - Property Shorthand
+	 - Computed Property Names
+     - Method Properties
+ - [Destructuring Assignment](http://es6-features.org/#ArrayMatching)
+	 - Array Matching
+	 - Object Matching, Shorthand Notation
+	 - Object Matching, Deep Matching
+	 - Object And Array Matching, Default Values
+	 - Parameter Context Matching
+	 -  Fail-Soft Destructuring
+ - [Modules](http://es6-features.org/#ValueExportImport)
+	 - Value Export/Import
+	 - Default & Wildcard
+- [Classes](http://es6-features.org/#ClassDefinition)
+	- Class Definition
+	- Class Inheritance
+	- Class Inheritance, From Expressions
+	- Base Class Access
+	- Static Members
+	- Getter/Setter
+- [Symbol Type](http://es6-features.org/#SymbolType)
+	- Symbol Type
+	- Global Symbols
+- [Iterators](http://es6-features.org/#IteratorForOfOperator)
+	- Iterator & For-Of Operator
+- [Generators](http://es6-features.org/#GeneratorFunctionIteratorProtocol)
+	- Generator Function, Iterator Protocol
+	- Generator Function, Direct Use
+	- Generator Matching
+	- Generator Control-Flow
+	- Generator Methods
+- [Map/Set & WeakMap/WeakSet](http://es6-features.org/#SetDataStructure)
+	- Set Data-Structure
+	- Map Data-Structure
+	- Weak-Link Data-Structures
+- [Typed Arrays](http://es6-features.org/#TypedArrays)
+	- Typed Arrays
+- [New Built-In Methods](http://es6-features.org/#ObjectPropertyAssignment)
+	- Object Property Assignment
+	- Array Element Finding
+	- String Repeating
+	- String Searching
+	- Number Type Checking
+	- Number Safety Checking
+	- Number Comparison
+	- Number Truncation
+	- Number Sign Determination
+- [Promises](http://es6-features.org/#PromiseUsage)
+	- Promise Usage
+	- Promise Combination
+- [Meta-Programming](http://es6-features.org/#Proxying)
+	- Proxying
+	- Reflection
+- [Internationalization & Localization](http://es6-features.org/#Collation)
+	- Collation
+	- Number Formatting
+	- Currency Formatting
+	- Date/Time Formatting
