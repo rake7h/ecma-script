@@ -11,3 +11,7 @@
 -   [String padding ](http://2ality.com/2015/11/string-padding.html)
 -   [`Object.getOwnPropertyDescriptors()`](https://2ality.com/2016/02/object-getownpropertydescriptors.html)
 -    [Trailing commas in function parameter lists and calls](http://2ality.com/2015/11/trailing-comma-parameters.html)
+
+### Notes
+
+https://exploringjs.com/es2016-es2017.html

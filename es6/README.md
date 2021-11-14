@@ -14,7 +14,7 @@
 	 - Spread Operator
  - [Template Literals](http://es6-features.org/#StringInterpolation)
 	 - String Interpolation
-	 -  Custom Interpolation
+	 - Custom Interpolation
 	 - Raw String Access
  - [Extended Literals](http://es6-features.org/#BinaryOctalLiteral)
 	 -  Binary & Octal Literal
@@ -80,3 +80,8 @@
 	- Number Formatting
 	- Currency Formatting
 	- Date/Time Formatting
+
+
+### Notes
+
+https://exploringjs.com/es6/
